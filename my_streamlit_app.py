@@ -5,7 +5,7 @@ import streamlit as st
 
 
 # streamlit run my_streamlit_app.py --server.runOnSave true
-st.title("Title of app")
+st.title("Title goes here!")
 
 _LOREM_IPSUM = """
 Lorem ipsum dolor sit amet, **consectetur adipiscing** elit, sed do eiusmod tempor
